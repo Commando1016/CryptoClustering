@@ -39,7 +39,7 @@ cd cryptocurrency-market-analysis
 3. Run the Jupyter Notebook:
 
 ```
-jupyter notebook code/crypto_analysis.ipynb
+jupyter notebook code/Crypto_Clustering.ipynb
 ```
 
 4. Follow the instructions in the notebook to execute each code cell sequentially.
