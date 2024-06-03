@@ -33,7 +33,7 @@ git clone https://github.com/Commando1016/Crypto_Clustering.git
 2. Navigate to the project directory:
 
 ```
-cd Crypto_Clustering
+cd CryptoClustering
 ```
 
 3. Run the Jupyter Notebook:
